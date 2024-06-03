@@ -31,3 +31,7 @@
 - **🧩 Problem Solving**: Exceptional analytical and problem-solving abilities.
 - **🔎 Code Review**: Proficient in conducting thorough code reviews to ensure security and quality.
 - **🛡️ Vulnerability Assessment**: Expertise in identifying and addressing security vulner
+
+### 🎮 Gaming Skills
+- **PUBG**: Skilled in strategy and tactical gameplay.
+- **Call of Duty (COD)**: Proficient in first-person shooter mechanics and teamwork.
