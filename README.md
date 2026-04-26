@@ -22,7 +22,7 @@ I operate at the intersection of **offensive security** and **software engineeri
 name          : hydr0cher
 role          : Penetration Tester & Software Developer
 specialization: Vulnerability Research · Exploit Development · Secure Coding
-current_focus : Advanced C++ · Cutting-edge Cybersecurity Research
+current_focus : Advanced Python, C++ · Cutting-edge Cybersecurity Research
 mindset       : Attacker by discipline. Developer by practice.
 ```
 
@@ -94,8 +94,6 @@ mindset       : Attacker by discipline. Developer by practice.
 <div align="center">
 
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=hydr0cher&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" />
-&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hydr0cher&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" />
 
 </div>
 
